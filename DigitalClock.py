@@ -17,7 +17,7 @@ def tick():
     clock.after(200, tick)
 
 root = Tk()
-status = Label(root, text="Time Kharab Chal Raha", bd=1, relief=SUNKEN, anchor=W)
+status = Label(root, text="Digital Clock", bd=1, relief=SUNKEN, anchor=W)
 status.grid(row=0, column=0)
 clock = Label(root, font=('times', 60, 'bold'), bg='RED')
 clock.grid(row=0, column=1) 
