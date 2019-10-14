@@ -1,6 +1,6 @@
 """
 Project:A digital clock in Python using Tkinter.
-Author:Nikhil Kumar
+Author: Nikhil Kumar
 """
 from tkinter import *
 import time
