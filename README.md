@@ -7,7 +7,7 @@ Here , The elements/files inside repository found can range from level of "Hello
 Here is :
 Part 1: (When I was Introducing Myself to GitHub !)
 
-  1)Code in Python to implement Digital Clock Widget Using Tkinter. 
+  1)Code in Python to implement Digital Clock Widget using Tkinter. 
   
   2)Hello World in Java
   
